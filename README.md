@@ -16,8 +16,8 @@ We would like to implement a simple two players game and then produce a histogra
 2. Player 2, a human user aims a guessing the word selected by Player 1 by guessing its characters. They are given a certain number of guesses at the beginning.
 
 3. Player 2 inputs their guess and Player 1 either:
-  3a. reveals the letter if it exists in the secret word 
-  3b. updates the number of guesses remaining
+  <br>a. reveals the letter if it exists in the secret word 
+  <br>b. updates the number of guesses remaining
   
 4. The game ends when either the user guesses the secret word, or the user runs out of guesses.
 
